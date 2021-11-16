@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+This is Milton Leslie. I'm a FullStack developer and work with technology since 1995.
 <!--
 **miltonleslie/miltonleslie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![image](https://user-images.githubusercontent.com/16402048/142059076-7b2a0b47-e1e6-4f6c-b3b3-3e0e08db4e25.png)
+![image](https://camo.githubusercontent.com/639d2f4c43a01e8f0382589b9e2dae1d20161b6ec0bc9a40dcd99917f1b2286d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5653436f64652d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465)
